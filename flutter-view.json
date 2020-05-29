@@ -1,0 +1,8 @@
+{
+    "indentation": 2,
+    "imports": [
+        "package:flutter/material.dart",
+        "package:flutter/cupertino.dart",
+        "package:flutter_view_widgets/flutter_view_widgets.dart"
+    ]
+}
